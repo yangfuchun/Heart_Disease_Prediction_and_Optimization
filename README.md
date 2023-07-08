@@ -5,7 +5,6 @@ As infectious diseases wane in the US, chronic illnesses take over as the primar
 
 ### Description of files
 - [Data](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset): Contains many attributes such as gender, current smoker or not, cigarettes per day, etc. that might or might not be related to 10 year risk of coronary heart disease CHD 
-- Code-updated: After learning Machine Learning techniques in a more systematic way, I decided to redo this project and added other algorithms. 
 
 ### List of python libraries used
 `statsmodels` `pandas` `sklearn` `numpy` 
