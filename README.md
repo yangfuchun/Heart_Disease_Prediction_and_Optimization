@@ -4,7 +4,7 @@
 As infectious diseases wane in the US, chronic illnesses take over as the primary cause of death. To predict the likelihood of developing CHD, medical parameters are crucial. In this class project, several Machine Learning models were developed to anticipate the 10-year risk of CHD, based on a public database comprising over 6000 records with 15 medical parameters, such as age, total cholesterol level, heart rate, etc. Later after I learned more about data analysis in Python and Machine Learning techniques, I added more analyses in the project (see updated_code). 
 
 ### Description of files
-- [Data](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset): Contains many attributes such as gender, current smoker or not, cigarettes per day, etc. that might or might not be related to 10 year risk of coronary heart disease CHD 
+- [Heart_disease_Framingham.csv](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset): Contains many attributes such as gender, current smoker or not, cigarettes per day, etc. that might or might not be related to 10 year risk of coronary heart disease CHD 
 
 ### List of python libraries used
 `statsmodels` `pandas` `sklearn` `numpy` 
